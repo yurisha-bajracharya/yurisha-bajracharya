@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m @yurisha-bajracharya.
-- 🌱 I’m currently learning web developement.
+- 🌱 I’m currently learning Python.
 - 😄 Pronouns: she/her
 
 <!--
