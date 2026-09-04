@@ -24,7 +24,7 @@ I'm studying Computer Engineering at Pulchowk Campus. I am exploring NLP, AI saf
 - doing AI Safety research
 
 ### github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yurisha-bajracharya&show_icons=true&hide_border=true&title_color=FF6FA5&icon_color=6ED0C1&text_color=333333&bg_color=FFF7FA" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurisha-bajracharya&hide_border=true&ring=FF6FA5&fire=FF6FA5&currStreakLabel=6ED0C1&background=FFF7FA" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurisha-bajracharya&hide_border=true&ring=FF6FA5&fire=FF6FA5&currStreakLabel=6ED0C1&background=FFF7FA" width="48%" /> </p>
 
 ### say hi
 
